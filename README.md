@@ -1,7 +1,3 @@
-<picture>
-  <img alt="Logo for Gowthaman Murugan" src="https://raw.githubusercontent.com/gowthaman-murugan/gowthaman-murugan/main/art/banner.svg">
-</picture>
-
 <h1 align="center">Hey there, I'm Gowthaman Murugan 👋</h1>
 <h3 align="center">Technical Architect · Front-End Engineering · Zapopan, Jalisco, Mexico</h3>
 

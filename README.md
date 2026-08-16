@@ -118,10 +118,6 @@
     <th>What I Delivered</th>
   </tr>
   <tr>
-    <td><b>Ideas2IT Technologies</b><br>Technical Architect · Present</td>
-    <td>Leading front-end architecture and engineering across enterprise products — reusable component & design systems, ACL frameworks and AI-assisted development — for global clients including PointClickCare, uLab Systems, Oportun, DeVero and FlightOffice.</td>
-  </tr>
-  <tr>
     <td><b>PointClickCare</b><br>Healthcare Platform · Present</td>
     <td>Front-end architecture and engineering for the leading long-term and post-acute care EHR platform — building scalable, accessible UI components and workflows that help care teams deliver better patient outcomes.</td>
   </tr>

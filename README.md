@@ -5,7 +5,7 @@
 </picture>
 
 <h1 align="center">Hey there, I'm Gowthaman Murugan 👋</h1>
-<h3 align="center">Technical Architect @ Ideas2IT Technologies · Front-End Engineering · Zapopan, Jalisco, Mexico</h3>
+<h3 align="center">Technical Architect · Front-End Engineering · Zapopan, Jalisco, Mexico</h3>
 
 <p align="center">
   <a href="https://github.com/gowthaman-murugan">
@@ -244,12 +244,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gowthaman-murugan-91a9224b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/[YOUR_X_HANDLE]">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
-  <a href="https://youtube.com/@[YOUR_YOUTUBE]">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
   <a href="mailto:thisisgowthaman@gmail.com">
     <img src="https://img.shields.io/badge/Email-thisisgowthaman%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">

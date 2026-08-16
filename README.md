@@ -1,5 +1,5 @@
 <picture>
-  <img alt="Logo for Gowthaman Murugan" src="https://raw.githubusercontent.com/gowthaman-murugan/gowthaman-murugan/main/art/header-dark.png">
+  <img alt="Logo for Gowthaman Murugan" src="https://raw.githubusercontent.com/gowthaman-murugan/gowthaman-murugan/main/art/banner.svg">
 </picture>
 
 <h1 align="center">Hey there, I'm Gowthaman Murugan 👋</h1>

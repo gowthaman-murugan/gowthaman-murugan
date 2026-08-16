@@ -118,31 +118,31 @@
     <th>What I Delivered</th>
   </tr>
   <tr>
-    <td><b>Ideas2IT Technologies</b><br>Technical Architect · 2026 – Present</td>
-    <td>Leading front-end architecture and engineering across enterprise products — reusable component & design systems, ACL frameworks and AI-assisted development — for global clients including uLab Systems, Oportun, DeVero and FlightOffice.</td>
+    <td><b>Ideas2IT Technologies</b><br>Technical Architect</td>
+    <td>Leading front-end architecture and engineering across enterprise products — reusable component & design systems, ACL frameworks and AI-assisted development — for global clients including PointClickCare, uLab Systems, Oportun, DeVero and FlightOffice.</td>
   </tr>
   <tr>
-    <td><b>PointClickCare</b><br>Healthcare Platform · Oct 2024 – Present</td>
+    <td><b>PointClickCare</b><br>Healthcare Platform</td>
     <td>Front-end architecture and engineering for the leading long-term and post-acute care EHR platform — building scalable, accessible UI components and workflows that help care teams deliver better patient outcomes.</td>
   </tr>
   <tr>
-    <td><b>uLab Systems</b><br>uDesign Cloud · 2022 – 2024</td>
+    <td><b>uLab Systems</b><br>uDesign Cloud</td>
     <td>Front-end architecture and engineering for a cloud-based orthodontic treatment platform used by dental professionals worldwide.</td>
   </tr>
   <tr>
-    <td><b>Oportun</b><br>FinTech · 2018 – 2021</td>
+    <td><b>Oportun</b><br>FinTech</td>
     <td>Reusable component & grid library, ACL-based role access to UI, React Highcharts dashboards for resume-data visualization, resume-parser integration (TextKernel) and email editor & templates.</td>
   </tr>
   <tr>
-    <td><b>DeVero</b><br>Healthcare · 2016 – 2018</td>
+    <td><b>DeVero</b><br>Healthcare</td>
     <td>Conversation UI/UX, private & group chat (XMPP) and an actionable bot integrated with Jira, Slack and Raadaptive for enterprise communication.</td>
   </tr>
   <tr>
-    <td><b>Profecta</b><br>Project Management · 2015</td>
+    <td><b>Profecta</b><br>Project Management</td>
     <td>MongoDB + Node.js (Mongoose) backend, REST API endpoints, ACL for valid API access, and Twitter & Slack integrations.</td>
   </tr>
   <tr>
-    <td><b>WorkBoards</b><br>Collaboration Platform · 2014</td>
+    <td><b>WorkBoards</b><br>Collaboration Platform</td>
     <td>Project & collaboration tool with a JS event engine mapping UI events to backend APIs and extensible quick views and actions.</td>
   </tr>
 </table>

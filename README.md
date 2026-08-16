@@ -1,7 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gowthaman-murugan/gowthaman-murugan/main/art/header-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gowthaman-murugan/gowthaman-murugan/main/art/header-light.png">
-  <img alt="Logo for Gowthaman Murugan" src="https://raw.githubusercontent.com/gowthaman-murugan/gowthaman-murugan/main/art/header-light.png">
+  <img alt="Logo for Gowthaman Murugan" src="https://raw.githubusercontent.com/gowthaman-murugan/gowthaman-murugan/main/art/header-dark.png">
 </picture>
 
 <h1 align="center">Hey there, I'm Gowthaman Murugan 👋</h1>

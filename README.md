@@ -7,7 +7,7 @@
 <h1 align="center">Hey there, I'm Gowthaman Murugan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=EF93C4&center=true&vCenter=true&width=650&height=45&lines=Full+Stack+Developer;Polyglot+Programmer;Front-End+Obsessed;MEAN+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=EF93C4&center=true&vCenter=true&width=650&height=45&lines=Front-End+Engineer;Polyglot+Programmer;Associate+Technical+Architect;MEAN+Stack+Developer;Front-End+Obsessed" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -26,20 +26,32 @@
 
 ## 🌸 About Me
 
+<p align="center">
+  A polyglot programmer writing code since 2013, obsessed with <b>front-end engineering</b> and everything modern UI. Currently an <b>Associate Technical Architect at Ideas2IT Technologies</b>.
+</p>
+
 <table>
   <tr>
     <td width="65%">
-      <p>I'm a polyglot programmer writing code since 2013, currently working as an <b>Associate Technical Architect at Ideas2IT Technologies</b> in Zapopan, Jalisco, Mexico.</p>
-      <ul>
-        <li>👨‍💻 Obsessed with <b>front-end engineering</b> — Angular, React, and everything modern UI</li>
-        <li>🌱 Deep into the <b>MEAN stack</b> and polyglot backends (Go, Python, Node.js)</li>
-        <li>🏗️ Strong in <b>architecture</b>, ACL frameworks, and reusable component design</li>
-        <li>🎯 Rich in happiness, meager in hate</li>
-        <li>📫 Reach me at the links below — always up for a chat</li>
-      </ul>
+      <h3>💼 What I Do</h3>
+      <p>Nearly 13 years of experience in software design, analysis, development, testing and implementation of web and mobile applications. Highly skilled in front-end technologies — Angular, AngularJS, React, Material, MEAN stack, Bootstrap and Ionic. Worked for global customers like DeVero, FlightOffice and Oportun.</p>
+      <p>Strong knowledge of product design & development, role-based access control (ACL) frameworks, reusable component architecture, and databases like MongoDB and MySQL. I work in Agile and love turning complex UX problems into clean, pixel-perfect UI.</p>
+      <p>
+        📄 View my full portfolio on
+        <a href="https://www.linkedin.com/in/gowthaman-murugan-91a9224b/">LinkedIn</a> ·
+        🎓 BTech in Information Technology, RVS College of Engineering and Technology
+      </p>
     </td>
-    <td width="35%" align="center">
-      <img src="https://github.com/gowthaman-murugan.png" alt="Gowthaman Murugan" width="200" style="border-radius: 50%;">
+    <td width="35%">
+      <h3>⚡ Quick Info</h3>
+      <ul>
+        <li>📍 <b>Zapopan, Jalisco, Mexico</b></li>
+        <li>🏢 <b>Associate Technical Architect</b> @ Ideas2IT Technologies</li>
+        <li>💻 Coding since <b>2013</b></li>
+        <li>🎯 <b>Front-End Obsessed</b></li>
+        <li>🌐 Languages: English</li>
+        <li>🔗 <a href="https://www.linkedin.com/in/gowthaman-murugan-91a9224b/">Connect with me on LinkedIn</a></li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -48,10 +60,30 @@
 
 ## 🧰 Tech Stack
 
+<h3 align="center">🎨 Frontend</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,angular,react,nodejs,express,mongodb,mysql,go,python,docker,aws,git,html,css" alt="Tech Stack">
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,angular,react,vue,html,css,jquery,bootstrap,materialui,ionic" alt="Frontend">
+</p>
+
+<h3 align="center">⚙️ Backend & Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,mongodb,mysql" alt="Backend">
+</p>
+
+<h3 align="center">🛠️ DevOps & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel" alt="DevOps">
+</p>
+
+<h3 align="center">🚀 Currently Learning</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python (Learning)">
+</p>
+
+<h3 align="center">🕰️ Past Experience</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Ruby%20(Rails)-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
+  <img src="https://img.shields.io/badge/Java-E01639?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </p>
 
 ---

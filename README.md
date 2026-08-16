@@ -114,14 +114,6 @@
 
 ---
 
-## ⏱️ WakaTime
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gowthaman_murugan&theme=radical&layout=compact" alt="WakaTime">
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">

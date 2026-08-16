@@ -1,18 +1,6 @@
 <h1 align="center">Hey there, I'm Gowthaman Murugan 👋</h1>
 <h3 align="center">Technical Architect · Front-End Engineering · Zapopan, Jalisco, Mexico</h3>
 
-<p align="center">
-  <a href="https://github.com/gowthaman-murugan">
-    <img src="https://img.shields.io/github/followers/gowthaman-murugan?style=for-the-badge&logo=github&label=Followers&color=EF93C4" alt="Followers">
-  </a>
-  <a href="https://github.com/gowthaman-murugan">
-    <img src="https://img.shields.io/github/users/stars/gowthaman-murugan?style=for-the-badge&logo=github&label=Total%20Stars&color=FF69B4" alt="Stars">
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=gowthaman-murugan">
-    <img src="https://komarev.com/ghpvc/?username=gowthaman-murugan&style=for-the-badge&label=Profile+Views&color=EF93C4" alt="Profile views">
-  </a>
-</p>
-
 ---
 
 ## 🌸 About Me

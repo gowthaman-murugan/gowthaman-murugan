@@ -122,7 +122,11 @@
     <td>Leading front-end architecture and engineering across enterprise products — reusable component & design systems, ACL frameworks and AI-assisted development — for global clients including uLab Systems, Oportun, DeVero and FlightOffice.</td>
   </tr>
   <tr>
-    <td><b>uLab Systems</b><br>uDesign Cloud · 2022 – Present</td>
+    <td><b>PointClickCare</b><br>Healthcare Platform · Oct 2024 – Present</td>
+    <td>Front-end architecture and engineering for the leading long-term and post-acute care EHR platform — building scalable, accessible UI components and workflows that help care teams deliver better patient outcomes.</td>
+  </tr>
+  <tr>
+    <td><b>uLab Systems</b><br>uDesign Cloud · 2022 – 2024</td>
     <td>Front-end architecture and engineering for a cloud-based orthodontic treatment platform used by dental professionals worldwide.</td>
   </tr>
   <tr>

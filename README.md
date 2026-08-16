@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='300'%20viewBox='0%200%201200%20300'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3E%3Cstop%20offset='0%25'%20stop-color='%23FF69B4'/%3E%3Cstop%20offset='100%25'%20stop-color='%238B008B'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='1200'%20height='300'%20fill='url(%23g)'/%3E%3Ctext%20x='600'%20y='140'%20font-family='Arial,%20sans-serif'%20font-size='62'%20font-weight='bold'%20fill='%23FFFFFF'%20text-anchor='middle'%3EGowthaman%20Murugan%3C/text%3E%3Ctext%20x='600'%20y='215'%20font-family='Arial,%20sans-serif'%20font-size='24'%20fill='%23F8BBD0'%20text-anchor='middle'%3ETechnical%20Architect%20%7C%20Front-End%20Obsessed%20%7C%20MEAN%20Stack%3C/text%3E%3C/svg%3E">
-  <source media="(prefers-color-scheme: light)" srcset="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='300'%20viewBox='0%200%201200%20300'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3E%3Cstop%20offset='0%25'%20stop-color='%23F8BBD0'/%3E%3Cstop%20offset='100%25'%20stop-color='%23EF93C4'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='1200'%20height='300'%20fill='url(%23g)'/%3E%3Ctext%20x='600'%20y='140'%20font-family='Arial,%20sans-serif'%20font-size='62'%20font-weight='bold'%20fill='%238B008B'%20text-anchor='middle'%3EGowthaman%20Murugan%3C/text%3E%3Ctext%20x='600'%20y='215'%20font-family='Arial,%20sans-serif'%20font-size='24'%20fill='%236A0D3F'%20text-anchor='middle'%3ETechnical%20Architect%20%7C%20Front-End%20Obsessed%20%7C%20MEAN%20Stack%3C/text%3E%3C/svg%3E">
-  <img alt="Banner" src="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='300'%20viewBox='0%200%201200%20300'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3E%3Cstop%20offset='0%25'%20stop-color='%23F8BBD0'/%3E%3Cstop%20offset='100%25'%20stop-color='%23EF93C4'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='1200'%20height='300'%20fill='url(%23g)'/%3E%3Ctext%20x='600'%20y='140'%20font-family='Arial,%20sans-serif'%20font-size='62'%20font-weight='bold'%20fill='%238B008B'%20text-anchor='middle'%3EGowthaman%20Murugan%3C/text%3E%3Ctext%20x='600'%20y='215'%20font-family='Arial,%20sans-serif'%20font-size='24'%20fill='%236A0D3F'%20text-anchor='middle'%3ETechnical%20Architect%20%7C%20Front-End%20Obsessed%20%7C%20MEAN%20Stack%3C/text%3E%3C/svg%3E">
+  <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='300'%20viewBox='0%200%201200%20300'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3E%3Cstop%20offset='0%25'%20stop-color='%23FF69B4'/%3E%3Cstop%20offset='100%25'%20stop-color='%238B008B'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='1200'%20height='300'%20fill='url(%23g)'/%3E%3Ctext%20x='600'%20y='140'%20font-family='Arial,%20sans-serif'%20font-size='62'%20font-weight='bold'%20fill='%23FFFFFF'%20text-anchor='middle'%3EGowthaman%20Murugan%3C/text%3E%3Ctext%20x='600'%20y='215'%20font-family='Arial,%20sans-serif'%20font-size='24'%20fill='%23F8BBD0'%20text-anchor='middle'%3ETechnical%20Architect%20%7C%20Front-End%20Engineering%20%7C%20AI-Assisted%20Development%3C/text%3E%3C/svg%3E">
+  <source media="(prefers-color-scheme: light)" srcset="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='300'%20viewBox='0%200%201200%20300'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3E%3Cstop%20offset='0%25'%20stop-color='%23F8BBD0'/%3E%3Cstop%20offset='100%25'%20stop-color='%23EF93C4'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='1200'%20height='300'%20fill='url(%23g)'/%3E%3Ctext%20x='600'%20y='140'%20font-family='Arial,%20sans-serif'%20font-size='62'%20font-weight='bold'%20fill='%238B008B'%20text-anchor='middle'%3EGowthaman%20Murugan%3C/text%3E%3Ctext%20x='600'%20y='215'%20font-family='Arial,%20sans-serif'%20font-size='24'%20fill='%236A0D3F'%20text-anchor='middle'%3ETechnical%20Architect%20%7C%20Front-End%20Engineering%20%7C%20AI-Assisted%20Development%3C/text%3E%3C/svg%3E">
+  <img alt="Banner" src="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='300'%20viewBox='0%200%201200%20300'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3E%3Cstop%20offset='0%25'%20stop-color='%23F8BBD0'/%3E%3Cstop%20offset='100%25'%20stop-color='%23EF93C4'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='1200'%20height='300'%20fill='url(%23g)'/%3E%3Ctext%20x='600'%20y='140'%20font-family='Arial,%20sans-serif'%20font-size='62'%20font-weight='bold'%20fill='%238B008B'%20text-anchor='middle'%3EGowthaman%20Murugan%3C/text%3E%3Ctext%20x='600'%20y='215'%20font-family='Arial,%20sans-serif'%20font-size='24'%20fill='%236A0D3F'%20text-anchor='middle'%3ETechnical%20Architect%20%7C%20Front-End%20Engineering%20%7C%20AI-Assisted%20Development%3C/text%3E%3C/svg%3E">
 </picture>
 
 <h1 align="center">Hey there, I'm Gowthaman Murugan 👋</h1>
@@ -23,34 +23,39 @@
 ## 🌸 About Me
 
 <p align="center">
-  A polyglot programmer writing code since 2013, obsessed with <b>front-end engineering</b> and everything modern UI. Currently a <b>Technical Architect at Ideas2IT Technologies</b>.
+  <b>Technical Architect</b> with nearly <b>13 years</b> of experience in software design, analysis, development, testing and delivery of web & mobile applications for global customers — DeVero, FlightOffice, Oportun and uLab Systems.
 </p>
 
 <table>
   <tr>
     <td width="65%">
       <h3>💼 What I Do</h3>
-      <p>Nearly 13 years of experience in software design, analysis, development, testing and implementation of web and mobile applications. Highly skilled in front-end technologies — Angular, AngularJS, React, Material, MEAN stack, Bootstrap and Ionic. Worked for global customers like DeVero, FlightOffice and Oportun.</p>
-      <p>Strong knowledge of product design & development, role-based access control (ACL) frameworks, reusable component architecture, and databases like MongoDB and MySQL. I work in Agile and love turning complex UX problems into clean, pixel-perfect UI.</p>
+      <p>I design and lead front-end engineering for enterprise products — Angular, AngularJS, React, MEAN stack, Material, Bootstrap and Ionic — turning complex UX problems into clean, pixel-perfect, scalable UI.</p>
+      <p>Beyond the UI, I bring product design thinking, role-based access control (ACL) frameworks, reusable component architecture and sound database knowledge (MongoDB, MySQL). I work in Agile and continuously adopt AI-assisted development to ship faster without compromising quality.</p>
       <p>
-        📄 View my full portfolio on
-        <a href="https://www.linkedin.com/in/gowthaman-murugan-91a9224b/">LinkedIn</a> ·
-        🎓 BTech in Information Technology, RVS College of Engineering and Technology
+        📄 Full portfolio → <a href="https://www.linkedin.com/in/gowthaman-murugan-91a9224b/">linkedin.com/in/gowthaman-murugan-91a9224b</a><br>
+        🎓 BTech in Information Technology — RVS College of Engineering and Technology
       </p>
     </td>
     <td width="35%">
-      <h3>⚡ Quick Info</h3>
+      <h3>⚡ At a Glance</h3>
       <ul>
-        <li>📍 <b>Zapopan, Jalisco, Mexico</b></li>
+        <li>📍 Zapopan, Jalisco, Mexico</li>
         <li>🏢 <b>Technical Architect</b> @ Ideas2IT Technologies</li>
-        <li>💻 Coding since <b>2013</b></li>
-        <li>🎯 <b>Front-End Obsessed</b></li>
-        <li>🌐 Languages: English</li>
-        <li>🔗 <a href="https://www.linkedin.com/in/gowthaman-murugan-91a9224b/">Connect with me on LinkedIn</a></li>
+        <li>💻 Coding since <b>2013</b> · Polyglot</li>
+        <li>🎯 Front-End Architecture & Design Systems</li>
+        <li>🤖 AI-Assisted Development (Claude · MCP)</li>
+        <li>🌐 English · 500+ connections</li>
+        <li>🔗 <a href="https://www.linkedin.com/in/gowthaman-murugan-91a9224b/">Connect on LinkedIn</a></li>
       </ul>
     </td>
   </tr>
 </table>
+
+<h3 align="center">🎯 What I'm Focused On</h3>
+<p align="center">
+  ⚛️ Enterprise Angular & React architecture · 🧩 Reusable components & design systems · 🤖 AI-assisted front-end development · 🔐 ACL & role-based access · 📊 Data-driven dashboards & real-time UX
+</p>
 
 ---
 
@@ -64,6 +69,13 @@
 <h3 align="center">⚙️ Backend & Databases</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,go,mongodb,mysql" alt="Backend">
+</p>
+
+<h3 align="center">🤖 AI & Modern Development</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-AI%20Assisted%20Development-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic">
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-F8BBD0?style=for-the-badge" alt="MCP">
+  <img src="https://img.shields.io/badge/Codex-AI%20Pair%20Programming-EF93C4?style=for-the-badge" alt="Codex">
 </p>
 
 <h3 align="center">🛠️ DevOps & Tools</h3>
@@ -81,6 +93,50 @@
   <img src="https://img.shields.io/badge/Ruby%20(Rails)-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
   <img src="https://img.shields.io/badge/Java-E01639?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </p>
+
+---
+
+## 🏅 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Anthropic-Building%20with%20the%20Claude%20API-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Building with the Claude API">
+  <img src="https://img.shields.io/badge/Anthropic-Claude%20Code%20in%20Action-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code in Action">
+  <img src="https://img.shields.io/badge/Anthropic-Introduction%20to%20MCP-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Model Context Protocol">
+  <img src="https://img.shields.io/badge/Anthropic-Claude%20101-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude 101">
+  <img src="https://img.shields.io/badge/Anthropic-AI%20Fluency%20Foundations-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI Fluency Foundations">
+  <img src="https://img.shields.io/badge/Google-Prompt%20Design%20in%20Vertex%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Prompt Design in Vertex AI">
+</p>
+
+---
+
+## 💼 Experience & Selected Client Projects
+
+<table>
+  <tr>
+    <th width="32%">Engagement</th>
+    <th>What I Delivered</th>
+  </tr>
+  <tr>
+    <td><b>uLab Systems</b><br>uDesign Cloud · 2022 – Present</td>
+    <td>Front-end architecture and engineering for a cloud-based orthodontic treatment platform used by dental professionals worldwide.</td>
+  </tr>
+  <tr>
+    <td><b>Oportun</b><br>FinTech · 2018 – 2021</td>
+    <td>Reusable component & grid library, ACL-based role access to UI, React Highcharts dashboards for resume-data visualization, resume-parser integration (TextKernel) and email editor & templates.</td>
+  </tr>
+  <tr>
+    <td><b>DeVero</b><br>Healthcare · 2016 – 2018</td>
+    <td>Conversation UI/UX, private & group chat (XMPP) and an actionable bot integrated with Jira, Slack and Raadaptive for enterprise communication.</td>
+  </tr>
+  <tr>
+    <td><b>Profecta</b><br>Project Management · 2015</td>
+    <td>MongoDB + Node.js (Mongoose) backend, REST API endpoints, ACL for valid API access, and Twitter & Slack integrations.</td>
+  </tr>
+  <tr>
+    <td><b>WorkBoards</b><br>Collaboration Platform · 2014</td>
+    <td>Project & collaboration tool with a JS event engine mapping UI events to backend APIs and extensible quick views and actions.</td>
+  </tr>
+</table>
 
 ---
 

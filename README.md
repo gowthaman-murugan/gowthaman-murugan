@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python (Learning)">
 </p>
 
-<h3 align="center">🕰️ Past Experience</h3>
+<h3 align="center">🧩 Previously Worked With</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Ruby%20(Rails)-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
   <img src="https://img.shields.io/badge/Java-E01639?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">

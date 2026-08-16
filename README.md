@@ -103,6 +103,8 @@
   <img src="https://img.shields.io/badge/Google-Prompt%20Design%20in%20Vertex%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Prompt Design in Vertex AI">
 </p>
 
+<p align="center">→ See all certifications on <a href="https://www.linkedin.com/in/gowthaman-murugan-91a9224b/details/certifications/">LinkedIn</a></p>
+
 ---
 
 ## 💼 Experience & Selected Client Projects

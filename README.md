@@ -143,6 +143,8 @@
   </tr>
 </table>
 
+<p align="center">→ See all 11 projects on <a href="https://www.linkedin.com/in/gowthaman-murugan-91a9224b/details/projects/">LinkedIn</a></p>
+
 ---
 
 ## 📰 Latest on LinkedIn

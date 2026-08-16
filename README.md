@@ -117,6 +117,10 @@
     <th>What I Delivered</th>
   </tr>
   <tr>
+    <td><b>Ideas2IT Technologies</b><br>Technical Architect · 2026 – Present</td>
+    <td>Leading front-end architecture and engineering across enterprise products — reusable component & design systems, ACL frameworks and AI-assisted development — for global clients including uLab Systems, Oportun, DeVero and FlightOffice.</td>
+  </tr>
+  <tr>
     <td><b>uLab Systems</b><br>uDesign Cloud · 2022 – Present</td>
     <td>Front-end architecture and engineering for a cloud-based orthodontic treatment platform used by dental professionals worldwide.</td>
   </tr>
@@ -137,6 +141,27 @@
     <td>Project & collaboration tool with a JS event engine mapping UI events to backend APIs and extensible quick views and actions.</td>
   </tr>
 </table>
+
+---
+
+## 📰 Latest on LinkedIn
+
+<table>
+  <tr>
+    <td>🤖 <a href="https://www.linkedin.com/posts/gowthaman-murugan-91a9224b_frontend-reactjs-webdevelopment-activity-7450704541093724160-hiwd">Frontend Engineers — Choosing the Right AI Model Matters</a><br><small>How to pick the right AI model for React, Angular & Vue development</small></td>
+  </tr>
+  <tr>
+    <td>🎓 <a href="https://www.linkedin.com/posts/gowthaman-murugan-91a9224b_certificate-for-introduction-to-model-context-activity-7444547685522624512-ZjeL">Completed: Introduction to Model Context Protocol (MCP) with Claude</a><br><small>Context, blocks & workflows that make AI outputs actually useful</small></td>
+  </tr>
+  <tr>
+    <td>👨‍💻 <a href="https://www.linkedin.com/posts/gowthaman-murugan-91a9224b_claudeai-ailearning-beginnerfriendly-activity-7444027600533864448-44XC">Learning Claude — What Each Block Does</a><br><small>A simple visual guide I made for fellow beginners</small></td>
+  </tr>
+  <tr>
+    <td>🏅 <a href="https://www.linkedin.com/posts/gowthaman-murugan-91a9224b_certificate-for-building-with-the-claude-activity-7443486078151352320-xjiy">Certified: Building with the Claude API</a><br><small>AI integration, prompt design & building intelligent applications</small></td>
+  </tr>
+</table>
+
+<p align="center">→ See all posts & activity on <a href="https://www.linkedin.com/in/gowthaman-murugan-91a9224b/recent-activity/">LinkedIn</a></p>
 
 ---
 

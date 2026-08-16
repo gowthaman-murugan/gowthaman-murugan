@@ -64,7 +64,7 @@
 
 <h3 align="center">🛠️ DevOps & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel" alt="DevOps">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" alt="DevOps">
 </p>
 
 <h3 align="center">🚀 Currently Learning</h3>

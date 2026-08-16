@@ -125,7 +125,7 @@
   </tr>
   <tr>
     <td><b>DeVero</b><br>Healthcare</td>
-    <td>Conversation UI/UX, private & group chat (XMPP) and an actionable bot integrated with Jira, Slack and Raadaptive for enterprise communication.</td>
+    <td>Cloud-based Electronic Health Records (EHR) company improving the quality of patient care and reducing business costs for home health, hospice, private duty, pediatric home care and therapy groups — with a point-of-care and agency management solution that adapts to the rapidly changing healthcare-at-home industry.</td>
   </tr>
   <tr>
     <td><b>Profecta</b><br>Project Management</td>

@@ -1,14 +1,10 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='300'%20viewBox='0%200%201200%20300'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3E%3Cstop%20offset='0%25'%20stop-color='%23FF69B4'/%3E%3Cstop%20offset='100%25'%20stop-color='%238B008B'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='1200'%20height='300'%20fill='url(%23g)'/%3E%3Ctext%20x='600'%20y='140'%20font-family='Arial,%20sans-serif'%20font-size='62'%20font-weight='bold'%20fill='%23FFFFFF'%20text-anchor='middle'%3EGowthaman%20Murugan%3C/text%3E%3Ctext%20x='600'%20y='215'%20font-family='Arial,%20sans-serif'%20font-size='24'%20fill='%23F8BBD0'%20text-anchor='middle'%3EAssociate%20Technical%20Architect%20%7C%20Front-End%20Obsessed%20%7C%20MEAN%20Stack%3C/text%3E%3C/svg%3E">
-  <source media="(prefers-color-scheme: light)" srcset="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='300'%20viewBox='0%200%201200%20300'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3E%3Cstop%20offset='0%25'%20stop-color='%23F8BBD0'/%3E%3Cstop%20offset='100%25'%20stop-color='%23EF93C4'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='1200'%20height='300'%20fill='url(%23g)'/%3E%3Ctext%20x='600'%20y='140'%20font-family='Arial,%20sans-serif'%20font-size='62'%20font-weight='bold'%20fill='%238B008B'%20text-anchor='middle'%3EGowthaman%20Murugan%3C/text%3E%3Ctext%20x='600'%20y='215'%20font-family='Arial,%20sans-serif'%20font-size='24'%20fill='%236A0D3F'%20text-anchor='middle'%3EAssociate%20Technical%20Architect%20%7C%20Front-End%20Obsessed%20%7C%20MEAN%20Stack%3C/text%3E%3C/svg%3E">
-  <img alt="Banner" src="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='300'%20viewBox='0%200%201200%20300'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3E%3Cstop%20offset='0%25'%20stop-color='%23F8BBD0'/%3E%3Cstop%20offset='100%25'%20stop-color='%23EF93C4'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='1200'%20height='300'%20fill='url(%23g)'/%3E%3Ctext%20x='600'%20y='140'%20font-family='Arial,%20sans-serif'%20font-size='62'%20font-weight='bold'%20fill='%238B008B'%20text-anchor='middle'%3EGowthaman%20Murugan%3C/text%3E%3Ctext%20x='600'%20y='215'%20font-family='Arial,%20sans-serif'%20font-size='24'%20fill='%236A0D3F'%20text-anchor='middle'%3EAssociate%20Technical%20Architect%20%7C%20Front-End%20Obsessed%20%7C%20MEAN%20Stack%3C/text%3E%3C/svg%3E">
+  <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='300'%20viewBox='0%200%201200%20300'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3E%3Cstop%20offset='0%25'%20stop-color='%23FF69B4'/%3E%3Cstop%20offset='100%25'%20stop-color='%238B008B'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='1200'%20height='300'%20fill='url(%23g)'/%3E%3Ctext%20x='600'%20y='140'%20font-family='Arial,%20sans-serif'%20font-size='62'%20font-weight='bold'%20fill='%23FFFFFF'%20text-anchor='middle'%3EGowthaman%20Murugan%3C/text%3E%3Ctext%20x='600'%20y='215'%20font-family='Arial,%20sans-serif'%20font-size='24'%20fill='%23F8BBD0'%20text-anchor='middle'%3ETechnical%20Architect%20%7C%20Front-End%20Obsessed%20%7C%20MEAN%20Stack%3C/text%3E%3C/svg%3E">
+  <source media="(prefers-color-scheme: light)" srcset="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='300'%20viewBox='0%200%201200%20300'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3E%3Cstop%20offset='0%25'%20stop-color='%23F8BBD0'/%3E%3Cstop%20offset='100%25'%20stop-color='%23EF93C4'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='1200'%20height='300'%20fill='url(%23g)'/%3E%3Ctext%20x='600'%20y='140'%20font-family='Arial,%20sans-serif'%20font-size='62'%20font-weight='bold'%20fill='%238B008B'%20text-anchor='middle'%3EGowthaman%20Murugan%3C/text%3E%3Ctext%20x='600'%20y='215'%20font-family='Arial,%20sans-serif'%20font-size='24'%20fill='%236A0D3F'%20text-anchor='middle'%3ETechnical%20Architect%20%7C%20Front-End%20Obsessed%20%7C%20MEAN%20Stack%3C/text%3E%3C/svg%3E">
+  <img alt="Banner" src="data:image/svg+xml;utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='300'%20viewBox='0%200%201200%20300'%3E%3Cdefs%3E%3ClinearGradient%20id='g'%20x1='0'%20y1='0'%20x2='1'%20y2='1'%3E%3Cstop%20offset='0%25'%20stop-color='%23F8BBD0'/%3E%3Cstop%20offset='100%25'%20stop-color='%23EF93C4'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='1200'%20height='300'%20fill='url(%23g)'/%3E%3Ctext%20x='600'%20y='140'%20font-family='Arial,%20sans-serif'%20font-size='62'%20font-weight='bold'%20fill='%238B008B'%20text-anchor='middle'%3EGowthaman%20Murugan%3C/text%3E%3Ctext%20x='600'%20y='215'%20font-family='Arial,%20sans-serif'%20font-size='24'%20fill='%236A0D3F'%20text-anchor='middle'%3ETechnical%20Architect%20%7C%20Front-End%20Obsessed%20%7C%20MEAN%20Stack%3C/text%3E%3C/svg%3E">
 </picture>
 
 <h1 align="center">Hey there, I'm Gowthaman Murugan 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=EF93C4&center=true&vCenter=true&width=650&height=45&lines=Front-End+Engineer;Polyglot+Programmer;Associate+Technical+Architect;MEAN+Stack+Developer;Front-End+Obsessed" alt="Typing SVG">
-</p>
 
 <p align="center">
   <a href="https://github.com/gowthaman-murugan">
@@ -27,7 +23,7 @@
 ## 🌸 About Me
 
 <p align="center">
-  A polyglot programmer writing code since 2013, obsessed with <b>front-end engineering</b> and everything modern UI. Currently an <b>Associate Technical Architect at Ideas2IT Technologies</b>.
+  A polyglot programmer writing code since 2013, obsessed with <b>front-end engineering</b> and everything modern UI. Currently a <b>Technical Architect at Ideas2IT Technologies</b>.
 </p>
 
 <table>
@@ -46,7 +42,7 @@
       <h3>⚡ Quick Info</h3>
       <ul>
         <li>📍 <b>Zapopan, Jalisco, Mexico</b></li>
-        <li>🏢 <b>Associate Technical Architect</b> @ Ideas2IT Technologies</li>
+        <li>🏢 <b>Technical Architect</b> @ Ideas2IT Technologies</li>
         <li>💻 Coding since <b>2013</b></li>
         <li>🎯 <b>Front-End Obsessed</b></li>
         <li>🌐 Languages: English</li>
@@ -88,6 +84,51 @@
 
 ---
 
+## 📁 Featured Repositories
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔐 <a href="https://github.com/gowthaman-murugan/ngx-mask">ngx-mask</a></h3>
+      <p>Angular plugin to create masks on form fields and HTML elements.</p>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+    </td>
+    <td width="50%">
+      <h3>🛠️ <a href="https://github.com/gowthaman-murugan/react-mui-json-from-builder">react-mui-json-form-builder</a></h3>
+      <p>Build JSON-driven forms dynamically with React and Material UI.</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔌 <a href="https://github.com/gowthaman-murugan/casl-with-featherjs-plus-example">casl-with-feathersjs</a></h3>
+      <p>Role-based access control (CASL) integrated with a FeathersJS app.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+    </td>
+    <td width="50%">
+      <h3>💬 <a href="https://github.com/gowthaman-murugan/go-gorilla-socket">go-gorilla-socket</a></h3>
+      <p>Real-time WebSocket messaging example built with Go and Gorilla.</p>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⚡ <a href="https://github.com/gowthaman-murugan/my-react-socket">my-react-socket</a></h3>
+      <p>Real-time React application powered by Socket.IO.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+    </td>
+    <td width="50%">
+      <h3>📝 <a href="https://github.com/gowthaman-murugan/oneNoteAPI">oneNoteAPI</a></h3>
+      <p>REST API exposing read / write / update operations for OneNote.</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+    </td>
+  </tr>
+</table>
+
+<p align="center">→ Explore all <a href="https://github.com/gowthaman-murugan?tab=repositories">repositories</a> on GitHub</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -121,17 +162,11 @@
   <a href="https://x.com/[YOUR_X_HANDLE]">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
-  <a href="https://instagram.com/[YOUR_INSTAGRAM]">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://tiktok.com/@[YOUR_TIKTOK]">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-  </a>
   <a href="https://youtube.com/@[YOUR_YOUTUBE]">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="mailto:[YOUR_EMAIL]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:thisisgowthaman@gmail.com">
+    <img src="https://img.shields.io/badge/Email-thisisgowthaman%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 

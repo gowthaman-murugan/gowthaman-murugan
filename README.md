@@ -5,6 +5,7 @@
 </picture>
 
 <h1 align="center">Hey there, I'm Gowthaman Murugan 👋</h1>
+<h3 align="center">Technical Architect @ Ideas2IT Technologies · Front-End Engineering · Zapopan, Jalisco, Mexico</h3>
 
 <p align="center">
   <a href="https://github.com/gowthaman-murugan">

@@ -42,6 +42,7 @@
         <li>🤖 AI-Assisted Development (Claude · MCP)</li>
         <li>🌐 English · 500+ connections</li>
         <li>🔗 <a href="https://www.linkedin.com/in/gowthaman-murugan-91a9224b/">Connect on LinkedIn</a></li>
+        <li>✉️ <a href="mailto:thisisgowthaman@gmail.com">thisisgowthaman@gmail.com</a></li>
       </ul>
     </td>
   </tr>
